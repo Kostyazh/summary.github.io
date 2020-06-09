@@ -35,8 +35,8 @@ height: 1322px;
 
 
 .my-photo{
-  margin-left: 13px;
-    width: 300px;
+  margin-left: 38px;
+    width: 250px;
 }
 
 .about-me-conteiner{
@@ -80,10 +80,10 @@ margin-right: 10px;
 
 .tech-skills-title{
 font-size: 22px;
-font-weight: 700;margin-bottom: 20px;
+font-weight: 700;
+margin-bottom: 20px;
 line-height: 24px;
-
-color: #ffffff
+color: #ffffff;
 }
 
 .tech-skills-conteiner{
@@ -160,6 +160,7 @@ margin-top: 24px;
 .hren{
     color: #595959;
 font-family: Montserrat;
+text-indent: 20px;
 font-size: 14px;
 font-weight: 400;
 line-height: 24px;
