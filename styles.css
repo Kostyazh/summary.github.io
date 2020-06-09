@@ -6,50 +6,50 @@
 
 body {
     background-color: #f5f7fa;
-   padding-left: 20px;
-   padding-right: 20px;
-   padding-top: 40px;
-   padding-bottom: 40px;
+   padding-left: 10%;
+   padding-right: 10%;
+   padding-top: 5%;
+   padding-bottom: 10%;
     font-family: Montserrat;
 }
 
 .wrapper{
     background-color: #ffffff;
     display: flex;
-    max-width: 1200px;
+    max-width: 100%;
     margin: 0 auto;
     box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
-    width: 1202px;
-height: 1322px;
+    width: 100%;
+height: 100%;
 
 }
 
 .sidebar{
     background-color: #1e2939;
-    width: 700px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+    width: 50%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    box-shadow: 3% 3% 3% rgba(0, 0, 0, 0.15);
 
 }
 
 
 .my-photo{
   margin-left: 8%;
-    width: 300px;
+    width: 85%;
 }
 
 .about-me-conteiner{
-    padding-left: 90px;
-    padding-right: 90px;
-    padding-top: 110px;
-    padding-bottom: 110pxs;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  padding-bottom: 10%;
 }
 
 .contact-conteiner{
-    margin-top: 60px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-top: 30%;
+    margin-left: 12%;
+    margin-right: 8%;
 }
 
 .contact-title{
@@ -87,9 +87,9 @@ color: #ffffff
 }
 
 .tech-skills-conteiner{
-    margin-top: 55px;
-    margin-left: 40px;
-    margin-right: 40px;
+  margin-top: 30%;
+  margin-left: 12%;
+  margin-right: 8%;
 }
 
 .tech-skills-1{
